@@ -17,7 +17,7 @@ A python script to turn Ubuntu Desktop into a strong DFIR/RE System with some te
 
 1. Review the script. No changes needed to get started.
 2. (optional) Check list of packages, add, or take away etc.
-3. Clone this repository `git clone https://github.com/ED-209-MK7/infosec-fortress.git`
+3. Clone this repository `git clone https://github.com//stephen-murcott/infosec-fortress.git`
 4. Run the script as sudo/root. `sudo python3 ./infosec-fortress/build-fortress.py`
 5. (semi-optional) Go make a sandwhich. It takes a long time.
 6. Be Prepared to answer some prompts along the way (not many)
